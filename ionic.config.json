@@ -1,0 +1,8 @@
+{
+  "name": "phonegap_blank",
+  "app_id": "6ad94d3a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
